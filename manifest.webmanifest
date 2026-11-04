@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Гипертрофия 12 — программа тренировок",
+  "short_name": "Гипертрофия 12",
+  "description": "12 недель для набора мышечной массы: программа, техника, подходы, таймер и статистика.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#022f2a",
+  "theme_color": "#022f2a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
